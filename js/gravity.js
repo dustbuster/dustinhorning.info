@@ -1,3 +1,5 @@
+// Chlog: Made a couple adjustments to make it more fun to play with
+
 /**
  * requestAnimationFrame
  */
@@ -139,7 +141,7 @@ function GravityPoint(x, y, radius, targets) {
     this._speed = new Vector();
 }
 
-GravityPoint.RADIUS_LIMIT = 65;
+GravityPoint.RADIUS_LIMIT = 150;
 GravityPoint.interferenceToPoint = true;
 
 GravityPoint.prototype = (function(o) {
@@ -432,7 +434,7 @@ Particle.prototype = (function(o) {
     // GUI Control
 
     control = {
-        particleNum: 50
+        particleNum: 500
     };
 
 
@@ -521,7 +523,6 @@ Particle.prototype = (function(o) {
         bufferCtx.fill();
         bufferCtx.restore();
 
-        // バッファをキャンバスに描画
         context.drawImage(bufferCvs, 0, 0);
 
         requestAnimationFrame(loop);
