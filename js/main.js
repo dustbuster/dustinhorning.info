@@ -219,17 +219,17 @@ $(document).ready(function(){
     /* 4. Newsletter ........................ */
     /* ------------------------------------- */
 
-    $("#notifyMe").notifyMe();
+    // $("#notifyMe").notifyMe();
 
-    (function() {
+    // (function() {
 
-        var dlgtrigger = document.querySelector( '[data-dialog]' ),
-            somedialog = document.getElementById( dlgtrigger.getAttribute( 'data-dialog' ) ),
-            dlg = new DialogFx( somedialog );
+    //     var dlgtrigger = document.querySelector( '[data-dialog]' ),
+    //         somedialog = document.getElementById( dlgtrigger.getAttribute( 'data-dialog' ) ),
+    //         dlg = new DialogFx( somedialog );
 
-        dlgtrigger.addEventListener( 'click', dlg.toggle.bind(dlg) );
+    //     dlgtrigger.addEventListener( 'click', dlg.toggle.bind(dlg) );
 
-    })();
+    // })();
 
     /* ------------------------------------- */
     /* 5. PhotoSwipe Gallery Init .......... */
