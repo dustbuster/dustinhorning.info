@@ -1575,7 +1575,9 @@ footer p {
 .pswp__caption h4 {
   margin-bottom: 10px !important;
 }
-
+.social-links {
+  margin-right: 10px
+}
 /* ------------------------------------- */
 /* 8. Media Queries .................... */
 /* ------------------------------------- */
@@ -1709,10 +1711,13 @@ footer p {
     height: 100vh;
   }
   h1.text-intro {
-    font-size: 30px;
+    font-size: 18px;
   }
   h2.text-intro {
-    font-size: 18px;
+    font-size: 12px;
+  }
+  .icons {
+    font-size: .8em;
   }
   .light-btn {
     max-width: 80%;
@@ -1749,14 +1754,19 @@ footer p {
 /* Only for tablet in landscape mode */
 /* Only for phone in landscape mode */
 @media screen and (max-device-width: 667px) and (orientation: landscape) {
+  .brand-logo {
+    width: 75%;
+    max-width: 100px;
+    margin-right: 10px;
+  }
   #left-side {
     padding: 50px 0 100px;
   }
   h1.text-intro {
-    font-size: 30px;
+    font-size: 20px;
   }
   h2.text-intro {
-    font-size: 18px;
+    font-size: 12px;
   }
   .dialog__content {
     width: 100%;
