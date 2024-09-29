@@ -1,16 +1,18 @@
-# Welcome to the Dustin website!
+# Welcome to Dustin's Website!
 
-### Who am i and why does this site exist?
+### Who am I and why does this site exist?
 
-<p>I am a Software Engineer based out of Bel Air, MD, I have been writing code for more than a decade and I really enjoy walking the fine line between aritecture and code. (e.g. Love lambdas, cloudformation, serverless infra as code, and utilitizing services in AWS or other could platform to come up with solutions.) Taking existing native features your server used to do, and offloading that CPU time to an external service, be it using AWS CLI or HTTP requests.<p>
-<p>This site is just a place to link up my github, linked in and other such socials and repos to find my experiece. I do not want to post my phone number or email address on the internet for obvious reason, but i should be reachable at the links provided.
+I am a Software Engineer based in Bel Air, MD. With over a decade of experience in coding, I enjoy balancing architecture and code. I have a passion for lambdas, CloudFormation, serverless infrastructure as code, and utilizing services in AWS or other cloud platforms to create solutions. This site serves as a hub to link my GitHub, LinkedIn, and other social profiles and repositories to showcase my experience. For privacy reasons, I do not post my phone number or email address online, but you can reach me through the provided links.
 
 ### Info about the site
 
-- [dustinhorning.info](https://dustinhorning.info) is a repo based on markup from [PHLY](https://github.com/phly)
-- This markup came with many options, you can find them in older branches like old-site.
-- Also this is hosted on an S3 and cloudfront on AWS, and it costs $1.50 a month to maintain. Can't beat that!
-- The gravity toy is a bit of fun. open on a desktop to experince it.
-- Clone the repo and run it locally. If you are PHP-er like me, use laravel valet, and then just add /index.html to view it in all it's glory. There's many theme's to choose from.
+- [dustinhorning.info](https://dustinhorning.info) is a repository based on markup from [PHLY](https://github.com/phly).
+- The markup offers many options, which you can find in older branches like `old-site`.
+- The site is hosted on S3 and CloudFront on AWS, costing only $1.50 a month to maintain.
+- The gravity toy is a fun feature; open it on a desktop to experience it.
+- Clone the repo and run it locally. If you use PHP, like me, use Laravel Valet, and then add `/index.html` to view it in all its glory. There are many themes to choose from.
+- You can also explore the PHP mail features! (which i do not use)
 
-### Thank you all for checking this page out. It's a fun little site and i quite enjoy playing with it.
+### Thank you for visiting!
+
+I hope you enjoy exploring this site as much as I enjoyed creating it.
