@@ -2,7 +2,7 @@
 
 ### Who am I and why does this site exist?
 
-I am a Software Engineer based in Bel Air, MD. With over a decade of experience in coding, I enjoy balancing architecture and code. I have a passion for lambdas, CloudFormation, serverless infrastructure as code, and utilizing services in AWS or other cloud platforms to create solutions. This site serves as a hub to link my GitHub, LinkedIn, and other social profiles and repositories to showcase my experience. For privacy reasons, I do not post my phone number or email address online, but you can reach me through the provided links.
+I am a Software Engineer based in Bel Air, MD. With over a decade of experience in coding, I enjoy balancing architecture and code. I have a passion for lambdas, CloudFormation, [serverless](https://www.serverless.com), infrastructure as code, and utilizing services in [AWS](https://aws.amazon.com) or other cloud platforms to create solutions. This site serves as a hub to link my GitHub, LinkedIn, and other social profiles and repositories to showcase my experience. For privacy reasons, I do not post my phone number or email address online, but you can reach me through the provided links.
 
 ### Info about the site
 
