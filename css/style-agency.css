@@ -29,7 +29,6 @@
 @import url(photoswipe.css);
 @import url(default-skin/default-skin.css);
 @import url(jquery.mCustomScrollbar.css);
-@import url(vegas.css);
 /* Google Fonts */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Montserrat:400,700|Pacifico");
 /*
@@ -1577,6 +1576,22 @@ footer p {
 }
 .social-links {
   margin-right: 10px
+}
+
+.latest-mix .soundcloud-link,
+.latest-mix .dj-site-link {
+  display: inline-block;
+  margin-bottom: 22px;
+}
+
+.latest-mix .soundcloud-link img {
+  display: block;
+}
+
+.latest-mix .dj-site-logo {
+  display: block;
+  width: 220px;
+  height: auto;
 }
 /* ------------------------------------- */
 /* 8. Media Queries .................... */
