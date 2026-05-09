@@ -486,8 +486,9 @@ sup {
 .brand-logo {
   position: absolute;
   left: 10%;
-  top: 5%;
-  max-width: 200px;
+  top: 8%;
+  width: 240px;
+  max-width: 240px;
 }
 
 #left-side {
@@ -505,11 +506,11 @@ sup {
   z-index: 0;
   left: 0;
   padding: 0;
-  top: 50vh;
+  top: 285px;
   width: 100%;
   padding: 0 10%;
   transition: all 0.3s cubic-bezier(0, 0, 0.58, 1);
-  transform: translateY(-50%);
+  transform: none;
   text-align: left;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
